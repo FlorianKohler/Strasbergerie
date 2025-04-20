@@ -1,0 +1,20 @@
+<rss version="2.0">
+    <channel>
+        <title>Actualités on Stras&#39;Bêrgerie</title>
+        <link>http://localhost:1313/actualites/</link>
+        <description>Recent content in Stras&#39;Bêrgerie</description>
+
+         
+            
+                 
+                <item>
+                    <title>L&#39;association est officielle  !</title>
+                    <link>http://localhost:1313/actualites/monpremierarticle/</link>
+                    <pubDate>Wed, 27 Mar 2024 00:00:00 -0700</pubDate>
+                    <description>Bonne nouvelle L&amp;rsquo;inscription au tribunal de l&amp;rsquo;association Stras&amp;rsquo;Bêrgerie est faite :)&#xA;L&amp;rsquo;équipe Les signataires des statuts sont 7 :&#xA;Un signataire Une signatrice Et bien d&amp;rsquo;autres ! </description>
+                </item>
+                
+            
+        
+    </channel>
+</rss>
