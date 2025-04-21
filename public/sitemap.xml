@@ -4,13 +4,16 @@
   <url>
     <loc>http://localhost:1313/nous-soutenir/what-is-hugo/</loc>
   </url><url>
+    <loc>http://localhost:1313/actualites/2025-04-21-les-chantiers-participatifs-%C3%A7a-commence-dans-quelques-jours/</loc>
+    <lastmod>2025-04-21T20:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-21T20:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/actualites/</loc>
     <lastmod>2024-03-27T00:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/actualites/monpremierarticle/</loc>
-    <lastmod>2024-03-27T00:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-03-27T00:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/nous-soutenir/long-faq/</loc>
