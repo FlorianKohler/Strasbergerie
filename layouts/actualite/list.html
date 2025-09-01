@@ -4,7 +4,7 @@
   {{- range $paginator.Pages }}
       <article class="blog-item">
         <h2 class="blog-item__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-        {{- partial "blog/byline.html" . }}
+        {{- partial "actualite/byline.html" . }}
         <p class="blog-item__summary">{{ .Summary | plainify }}</p>
       </article>
   {{ end }}

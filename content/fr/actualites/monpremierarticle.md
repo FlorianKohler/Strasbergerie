@@ -4,14 +4,8 @@ date: 2024-03-27
 description: "Description of your article"
 draft: false
 type: "blog"
+author: Muriel
 ---
 
 ## Bonne nouvelle
-L'inscription au tribunal de l'association Stras'Bêrgerie est faite :)
-
-## L'équipe
-Les signataires des statuts sont 7 :
-
-* Un signataire
-* Une signatrice
-* Et bien d'autres !
+L'inscription au tribunal de l'association Stras'Bêrgerie est faite ! Cela permet à l'association de créer un compte à la banque, de candidater à des appels à projets, etc.

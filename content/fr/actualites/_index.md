@@ -1,9 +1,9 @@
 ---
 title: "Actualités"
-description: "Nos actualités"
+description: "Les dernières actualités de Stras'Bêrgerie"
 date: 2024-03-27
 draft: false
-type: "blog"
+type: "acualite"
 layout: "list"
 ---
 

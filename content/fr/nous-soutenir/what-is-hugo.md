@@ -1,7 +1,7 @@
 ---
-title: "What is Hugo?"
-weight: 1
+title: "Devenir bénévole"
+weight: 2
 noindex: true
 ---
 
-Hugo is a static site generator written in Go. It's fast and flexible.
+Stras'Bêrgerie cherche toujours du soutien humain ! Que vous ayez quelques minutes par mois ou de nombreuses heures à consacrer au projet, votre aide est la bienvenue. Contactez-nous à [strasbergerie@mailo.com](mailto:strasbergerie@mailo.com) 

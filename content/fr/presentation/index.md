@@ -1,16 +1,21 @@
 ---
-title: Demo Elements Page
-description: A demo page for the various markup elements in the Dot Org theme.
+title: Présentation du projet
+description: Découvrez les objectifs et moyens mis en oeuvre pour le(s) projet(s) de l'association Stras'Bêrgerie !
 images: ["https://via.placeholder.com/250x200/d9d9d9/000000"]
 ---
 
-This is a demo page, designed to show you the various elements of the theme and how they sit together.
+Notre projet associatif c’est Stras’Bêrgerie : la création et l’animation d’une bergerie urbaine à Strasbourg !
 
-It has a custom social image, which can be set in the frontmatter.
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
-
-First here's how the Heading markup displays:
+Notre rêve c’est de rapprocher la nature et l’agriculture de la ville et de ses habitants: 
+* Pour la réensauvager un peu
+* Pour la réenchanter surtout 
+* Pour créer du lien social et contribuer à la préservation de la biodiversité
+ 
+Avec Stras’bêrgerie, nous proposerons une alternative à l’entretien mécanique des espaces verts grâce à l'éco pâturage, 
+Nous chercherons à toucher petits et grands grâce à des visites et à des ateliers pédagogiques et de sensibilisation autour du mouton et de l’environnement,
+Nous créerons du lien social et de la convivialité dans les quartiers en amenant les moutons jusqu’en pieds d’immeuble grâce à de l’itinérance, 
+nous créerons même du lien avec l’Allemagne en organisant une grande transhumance transfrontalière
+Ainsi, nous chercherons à redonner une place au mouton dans la ville pour la rendre nourricière et plus vivante / améliorer le cadre de vie des habitants
 
 # H1 Heading
 ## H2 Heading

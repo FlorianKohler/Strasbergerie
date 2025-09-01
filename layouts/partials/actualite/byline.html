@@ -1,0 +1,18 @@
+{{- $date := .Date.Format "2 Janvier 2006" }}
+{{- $allAuthors := .Site.Data.authors }}
+{{- $authorKey := .Params.author }}
+{{- $authorData := index $allAuthors $authorKey }}
+
+<div class="blog-item__byline">
+  <p>
+    {{ if $date }}
+      <span class="blog-item__date">{{ $date }}</span>
+    {{ end }}
+    {{ if $authorData }}
+      <span class="blog-item__author">
+        Par
+          {{ $authorData.name }}
+      </span>
+    {{ end }}
+  </p>
+</div>

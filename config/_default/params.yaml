@@ -1,8 +1,8 @@
 ######################## custom scripts & styles ####################
 
 # Add custom assets relative to /static or via https
-logo_on_white: "/img/logo-b.svg"
-logo_on_black: "/img/logo-w.svg"
+logo_on_white: "/img/logo_SB.png"
+logo_on_black: "/img/logo_SB.png"
 custom_js: []
 custom_css: []
 
@@ -18,7 +18,7 @@ github:
 social_links:
   devstats: ""
   discord: ""
-  facebook: "https.//facebook.com"
+  facebook: "https://facebook.com"
   flickr: ""
   github: ""
   instagram: "https://instagram.com"

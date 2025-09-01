@@ -2,10 +2,10 @@ fr:
   languageName: Français
   weight: 1
   ### copyright (markdown can be used) ###
-  copyright: "Copyright &copy; {{< current_year >}} Stras'Bêrgerie. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
+  copyright: "Copyright &copy; {{< current_year >}} Stras'Bêrgerie. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) pour Hugo par [CNCF](https://www.cncf.io)."
   title: "Stras'Bêrgerie"
   params:
-    description: "Site Description"
+    description: "Site de l'association de Stras'Bêrgerie"
     ### accessibility ###
     # accessibility:
     #   skip_text: "Skip to content"
@@ -17,8 +17,8 @@ fr:
       link: "/nous-soutenir/"
     # footer_cta:
     # Call to action à la droite du pied de page
-    #   text: "Join us"
-    #   link: "/example-page/"
+      # text: "Join us"
+      # link: "/example-page/"
     # github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
   menu:
@@ -38,4 +38,7 @@ fr:
       name: "Actualités"
       url: "/actualites/"
       weight: 2
-
+    # - identifier: "contact"
+    #   name: "Nous contacter"
+    #   url: "/contact/"
+    #   weight: 3

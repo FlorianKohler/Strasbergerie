@@ -1029,7 +1029,7 @@ SCSS-ified, variablified, spin mode default by James Hunt @thetwopct
   color: var(--footer-link-color); }
   @media (min-width: 1000px) {
     .footer {
-      margin-top: 70px; } }
+      margin-top: 100px; } }
   @media (min-width: 1000px) {
     .footer {
       padding-top: 60px;
@@ -1229,8 +1229,8 @@ hr {
   margin-bottom: 30px; }
   @media (min-width: 1000px) {
     hr {
-      margin-top: 30px;
-      margin-bottom: 30px; } }
+      margin-top: 60px;
+      margin-bottom: 60px; } }
 .content > * {
   max-width: var(--content-width); }
 
