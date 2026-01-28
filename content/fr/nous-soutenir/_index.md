@@ -1,6 +1,6 @@
 ---
 title: "Nous soutenir"
-description: "Comment soutenir ou rejoindre l'association Stras'Bêrgerie"
+description: "Comment soutenir ou rejoindre l'association Stras'bêrgerie"
 ---
 
 Vous vous demandez comment soutenir le projet (aide financière, humaine, matérielle) ?

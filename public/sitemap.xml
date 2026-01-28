@@ -2,23 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/nous-soutenir/long-faq/</loc>
+    <loc>http://localhost:1313/nous-soutenir/adherer/</loc>
   </url><url>
-    <loc>http://localhost:1313/nous-soutenir/what-is-hugo/</loc>
+    <loc>http://localhost:1313/nous-soutenir/faire-un-don/</loc>
+  </url><url>
+    <loc>http://localhost:1313/nous-soutenir/devenir-benevole/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-21T20:00:00+00:00</lastmod>
+    <lastmod>2026-01-14T20:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/actualites/2025-04-21-les-chantiers-participatifs-%C3%A7a-commence-dans-quelques-jours/</loc>
-    <lastmod>2025-04-21T20:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/actualites/2026-01-14-ag-2025/</loc>
+    <lastmod>2026-01-14T20:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/actualites/</loc>
     <lastmod>2024-03-27T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/actualites/monpremierarticle/</loc>
+    <loc>http://localhost:1313/actualites/2025-03-27-asso-creee/</loc>
     <lastmod>2024-03-27T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/exemple/</loc>
   </url><url>
     <loc>http://localhost:1313/mentions-legales/</loc>
   </url><url>
@@ -26,7 +30,9 @@
   </url><url>
     <loc>http://localhost:1313/nous-soutenir/</loc>
   </url><url>
-    <loc>http://localhost:1313/presentation/</loc>
+    <loc>http://localhost:1313/leprojet/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ressources/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

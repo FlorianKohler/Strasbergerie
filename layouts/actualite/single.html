@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{- $date := .Date.Format "Monday, January 1, 2006" }}
+{{- $date := printf "Le %d/%d/%d" .Date.Day .Date.Month .Date.Year }}
 {{- $allAuthors := .Site.Data.authors }}
 {{- $author := .Params.author }}
 

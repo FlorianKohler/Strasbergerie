@@ -1,11 +1,11 @@
 .blog-item {
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     &:first-of-type {
-        margin-top: 50px;
+        margin-top: 20px;
     }
 
     @media (min-width: $min-desktop) {
-        margin-bottom: 80px;
+        margin-bottom: 40px;
     }
     &__title {
         margin-block-start: 0;
@@ -15,7 +15,7 @@
         }
     }
     &__byline {
-        margin-block-start: 15px;
+        margin-block-start: 0;
         margin-block-end: 12px;
         p {
             margin-block-start: 0;
@@ -52,6 +52,6 @@
 // Singular blog page.
 .blog.page-page {
     .blog-item__byline {
-        margin-block-end: 50px;
+        margin-block-end: 20px;
     }
 }

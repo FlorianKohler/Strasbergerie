@@ -14,8 +14,8 @@
 
         <div class="copyright">
             <p>{{ .Site.Copyright | default "Copyright &copy; {{< current_year >}} All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)." | markdownify }}</p>
-            <p><a href="mentions-legales">Mentions légales</a></p>
-            <p><a href="mous-contacter">Nous contacter</a></p>
+            <p><a href="/mentions-legales/">Mentions légales</a></p>
+            <p><a href="/nous-contacter/">Nous contacter</a></p>
             <div class="copyright__accessibility-git-wrapper">
                 {{ if .Site.Params.accessibility.help_url }}
                 <a href="{{ .Site.Params.accessibility.help_url }}" class="nowrap">{{ .Site.Params.accessibility.help_text | default

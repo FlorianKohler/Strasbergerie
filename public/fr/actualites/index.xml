@@ -1,0 +1,29 @@
+<rss version="2.0">
+    <channel>
+        <title>Actualités on Stras&#39;bêrgerie</title>
+        <link>http://localhost:1313/fr/actualites/</link>
+        <description>Recent content in Stras&#39;bêrgerie</description>
+
+         
+            
+                 
+                <item>
+                    <title>Stras&#39;bêrgerie a tenu sa première AG !</title>
+                    <link>http://localhost:1313/fr/actualites/2026-01-14-ag-2025/</link>
+                    <pubDate>Wed, 14 Jan 2026 20:00:00 +0000</pubDate>
+                    <description>Stras&amp;rsquo;bêrgerie a tenu sa première Assemblée générale le jeudi 18 décembre 2025 ! À la Tour du Schloessel, l&amp;rsquo;Assemblée générale a permis de passer en revue l&amp;rsquo;année 2025&amp;hellip; et de dévoiler le premier rapport d&amp;rsquo;activité de l&amp;rsquo;association ! Vous pouvez consulter le rapport d&amp;rsquo;activité sur ce lien.&#xA;</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>L&#39;association est officielle  !</title>
+                    <link>http://localhost:1313/fr/actualites/2025-03-27-asso-creee/</link>
+                    <pubDate>Wed, 27 Mar 2024 00:00:00 +0100</pubDate>
+                    <description>Bonne nouvelle L&amp;rsquo;inscription au tribunal de l&amp;rsquo;association Stras&amp;rsquo;bêrgerie est faite ! Cela permet à l&amp;rsquo;association de créer un compte à la banque, de candidater à des appels à projets, etc.&#xA;</description>
+                </item>
+                
+            
+        
+    </channel>
+</rss>

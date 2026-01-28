@@ -12,16 +12,16 @@ custom_css: []
 images: ["/img/social-share.png"]
 
 github:
-  repo_url: "https://github.com/username/repo/blob/master"
-  show_edit_link: true
+  repo_url: ""
+  show_edit_link: false
 
 social_links:
   devstats: ""
   discord: ""
-  facebook: "https://facebook.com"
+  facebook: "https://www.facebook.com/people/Strasb%C3%AArgerie/61576637516412/"
   flickr: ""
   github: ""
-  instagram: "https://instagram.com"
+  instagram: "https://www.instagram.com/strasbergerie?igsh=MTB2ajdtN3RsM2E4aw=="
   landscape: ""
   linkedin: ""
   mastodon: ""

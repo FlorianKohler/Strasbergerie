@@ -1,8 +1,8 @@
 .breadcrumbs {
-    margin-block-start: 70px;
+    margin-block-start: 20px;
     margin-block-end: 0;
     @media (min-width: $desktop-width) {
-        margin-block-start: 100px;
+        margin-block-start: 30px;
         margin-block-end: 0;
     }
     font-family: var(--rounded-font-family);
@@ -43,10 +43,10 @@
 .breadcrumbs + .title,
 .breadcrumbs + h1,
 .breadcrumbs + .h1 {
-    margin-block-start: 20px;
-    margin-block-end: 50px;
+    margin-block-start: 10px;
+    margin-block-end: 10px;
     @media (min-width: $desktop-width) {
-        margin-block-start: 50px;
-        margin-block-end: 80px;
+        margin-block-start: 15px;
+        margin-block-end: 10px;
     }
 }
