@@ -33,6 +33,13 @@
             text-transform: uppercase;
             margin-right: 5px;
         }
+        .blog-item__date {
+            font-size: 12px;
+            font-weight: 400;
+            text-transform: none;
+            color: var(--gray-600);
+            margin: 0;
+        }
         svg {
             fill: var(--primary-400);
             color: var(--primary-400);

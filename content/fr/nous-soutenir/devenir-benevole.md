@@ -4,4 +4,4 @@ weight: 30
 noindex: true
 ---
 
-Stras'bêrgerie cherche toujours du soutien humain ! Que vous ayez quelques minutes par mois ou de nombreuses heures à consacrer au projet, votre aide est la bienvenue. Contactez-nous à [strasbergerie@mailo.com](mailto:strasbergerie@mailo.com) 
+Stras'bêrgerie cherche toujours du soutien humain ! Que vous ayez quelques minutes par mois ou de nombreuses heures à consacrer au projet, votre aide est la bienvenue. Contactez-nous à [strasbergerie@gmail.com](mailto:strasbergerie@gmail.com) pour en discuter !

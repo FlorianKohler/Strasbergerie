@@ -10,6 +10,8 @@
 
     {{ if gt (len $validLinks) 0 }}
     <ul class="social-links">
+            <p>Suivez-nous sur :</p>
+
         {{ range $validLinks }}
         <li>
             <a href="{{ .value }}" title="{{ i18n "social_link_title" (dict "SiteTitle" $siteTitle "Network" (humanize .key)) | default (printf "%s on %s" $siteTitle (humanize .key)) }}">

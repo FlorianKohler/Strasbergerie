@@ -13,10 +13,10 @@ body {
 }
 
 .title {
-    margin-block-start: 15px;
+    margin-block-start: 25px;
     margin-block-end: 0;
     @media (min-width: $desktop-width) {
-        margin-block-start: 20px;
+        margin-block-start: 30px;
         margin-block-end: 0;
     }
 }
@@ -43,7 +43,7 @@ h2,
     text-transform: uppercase;
     line-height: 120%;
     font-size: 34px;
-    margin-block-start: 50px;
+    margin-block-start: 80px;
     margin-block-end: 30px;
     @media (min-width: $min-desktop) {
         line-height: 115%;
@@ -57,7 +57,7 @@ h3,
     font-size: 20px;
     line-height: 150%;
     text-transform: none;
-    margin-block-start: 40px;
+    margin-block-start: 70px;
     margin-block-end: 25px;
     @media (min-width: $min-desktop) {
         font-size: 30px;
@@ -72,7 +72,7 @@ h4,
     line-height: 150%;
     text-transform: uppercase;
     letter-spacing: 2.4px;
-    margin-block-start: 28px;
+    margin-block-start: 60px;
     margin-block-end: 18px;
     @media (min-width: $min-desktop) {
         font-size: 18px;
@@ -85,7 +85,7 @@ h5,
     font-size: 14px;
     text-transform: uppercase;
     letter-spacing: 0.8px;
-    margin-block-start: 25px;
+    margin-block-start: 55px;
     margin-block-end: 16px;
     @media (min-width: $min-desktop) {
         font-size: 16px;
@@ -99,7 +99,7 @@ h6,
     font-weight: 800;
     font-size: 12px;
     letter-spacing: 0.8px;
-    margin-block-start: 20px;
+    margin-block-start: 50px;
     margin-block-end: 14px;
     @media (min-width: $min-desktop) {
         font-size: 14px;
@@ -156,4 +156,12 @@ blockquote {
 
 .highlight pre {
     padding: 20px;
+}
+
+// ensure headings have enough breathing room when targeted by anchor links
+h1, h2, h3, h4, h5, h6 {
+    scroll-margin-top: 90px;
+    @media (min-width: $min-desktop) {
+        scroll-margin-top: 110px;
+    }
 }

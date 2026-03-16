@@ -38,11 +38,11 @@
 }
 
 .button {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     @media (min-width: $min-desktop) {
-        margin-top: 50px;
-        margin-bottom: 50px;
+        margin-top: 30px;
+        margin-bottom: 30px;
     }
 }
 
@@ -51,6 +51,6 @@
     margin-bottom: 30px;
     @media (min-width: $min-desktop) {
         margin-top: 0;
-        margin-bottom: 50px;
+        margin-bottom: 30px;
     }
 }

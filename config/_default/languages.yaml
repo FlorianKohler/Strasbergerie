@@ -23,10 +23,10 @@ fr:
   ### example menu showing children ###
   menu:
     main:
-    - identifier: "leprojet"
-      name: "Le projet"
-      url: "/leprojet/"
-      weight: 1
+    # - identifier: "leprojet"
+    #  name: "Le projet"
+    #  url: "/leprojet/"
+    #  weight: 1
       # Sous menu pour ex
     # - identifier: "Actualites"
     #   name: "Example Child Page"

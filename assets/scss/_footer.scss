@@ -1,13 +1,13 @@
 .footer {
     // Space from content.
-    margin-top: 70px;
+    margin-top: 50px;
     @media (min-width: $min-desktop) {
-        margin-top: 70px;
+        margin-top: 50px;
     }
-    padding-top: 60px;
+    padding-top: 30px;
     padding-bottom: 60px;
     @media (min-width: $min-desktop) {
-        padding-top: 60px;
+        padding-top: 30px;
         padding-bottom: 60px;
     }
     background-color: var(--brownsb);

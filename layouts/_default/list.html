@@ -1,9 +1,18 @@
 {{ define "main" }}
 {{ .Content }}
+{{ if not .IsHome }}
   {{ range .Pages }}
-    <article>
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-      <p>{{ .Summary | plainify }}</p>
+    <article class="blog-item">
+      <h2 class="blog-item__title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      {{- partial "actualites/byline.html" . }}
+      <p class="blog-item__summary">
+        {{ with .Params.description }}
+          {{ . | plainify }}
+        {{ else }}
+          {{ .Summary | plainify }}
+        {{ end }}
+      </p>
     </article>
   {{ end }}
+{{ end }}
 {{ end }}
