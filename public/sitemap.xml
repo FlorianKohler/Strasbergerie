@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/nous-soutenir/adherer/</loc>
+    <loc>http://localhost:1313/nous-soutenir/adherer/</loc>
   </url><url>
-    <loc>/nous-soutenir/faire-un-don/</loc>
+    <loc>http://localhost:1313/nous-soutenir/faire-un-don/</loc>
   </url><url>
-    <loc>/nous-soutenir/devenir-benevole/</loc>
+    <loc>http://localhost:1313/nous-soutenir/devenir-benevole/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-03-15T20:00:00+00:00</lastmod>
   </url><url>
-    <loc>/actualites/2026-03-15-presentation-bfm/</loc>
+    <loc>http://localhost:1313/actualites/2026-03-15-presentation-bfm/</loc>
     <lastmod>2026-03-15T20:00:00+00:00</lastmod>
   </url><url>
-    <loc>/actualites/2026-01-14-ag-2025/</loc>
+    <loc>http://localhost:1313/actualites/2026-01-14-ag-2025/</loc>
     <lastmod>2026-01-14T20:00:00+00:00</lastmod>
   </url><url>
-    <loc>/actualites/2025-03-27-asso-creee/</loc>
+    <loc>http://localhost:1313/actualites/2025-03-27-asso-creee/</loc>
     <lastmod>2025-03-27T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/actualites/</loc>
+    <loc>http://localhost:1313/actualites/</loc>
     <lastmod>2024-03-27T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>/mentions-legales/</loc>
+    <loc>http://localhost:1313/mentions-legales/</loc>
   </url><url>
-    <loc>/nous-contacter/</loc>
+    <loc>http://localhost:1313/nous-contacter/</loc>
   </url><url>
-    <loc>/nous-soutenir/</loc>
+    <loc>http://localhost:1313/nous-soutenir/</loc>
   </url><url>
-    <loc>/leprojet/</loc>
+    <loc>http://localhost:1313/leprojet/</loc>
   </url><url>
-    <loc>/ressources/</loc>
+    <loc>http://localhost:1313/ressources/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
