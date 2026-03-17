@@ -2,8 +2,7 @@
 title: Stras'bêrgerie sur BFM Alsace !
 date: 2026-03-15T20:00:00.000Z
 description: Stras'bêrgerie a fait sa première apparition télé lors du "Focus Asso" sur BFM Alsace.
-type: "blog"
-author: 
+type: "actualites"
 ---
 
 Mercredi 11 mars, Muriel a eu l'opportunité de présenter Stras'bêrgerie à tous les téléspectateurs de Bonsoir l'Alsace, l'émission quotidienne de BFM Alsace !
