@@ -1,7 +1,7 @@
 <rss version="2.0">
     <channel>
         <title>Stras&#39;bêrgerie</title>
-        <link>/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content in Stras&#39;bêrgerie</description>
 
          
@@ -15,7 +15,7 @@
                  
                 <item>
                     <title>Stras&#39;bêrgerie sur BFM Alsace !</title>
-                    <link>/actualites/2026-03-15-presentation-bfm/</link>
+                    <link>http://localhost:1313/actualites/2026-03-15-presentation-bfm/</link>
                     <pubDate>Sun, 15 Mar 2026 20:00:00 +0000</pubDate>
                     <description>Mercredi 11 mars, Muriel a eu l&amp;rsquo;opportunité de présenter Stras&amp;rsquo;bêrgerie à tous les téléspectateurs de Bonsoir l&amp;rsquo;Alsace, l&amp;rsquo;émission quotidienne de BFM Alsace !&#xA;La rubrique &amp;ldquo;Focus Asso&amp;rdquo; a permis de dévoiler les projets de Stras&amp;rsquo;bêrgerie face aux caméras !&#xA;L&amp;rsquo;intervention est disponible en replay : lien vers l&amp;rsquo;émission (intervention de Muriel vers la 36e minute)&#xA;</description>
                 </item>
@@ -24,7 +24,7 @@
                  
                 <item>
                     <title>Stras&#39;bêrgerie a tenu sa première AG !</title>
-                    <link>/actualites/2026-01-14-ag-2025/</link>
+                    <link>http://localhost:1313/actualites/2026-01-14-ag-2025/</link>
                     <pubDate>Wed, 14 Jan 2026 20:00:00 +0000</pubDate>
                     <description>Stras&amp;rsquo;bêrgerie a tenu sa première Assemblée générale le jeudi 18 décembre 2025 ! À la Tour du Schloessel, l&amp;rsquo;Assemblée générale a permis de passer en revue l&amp;rsquo;année 2025&amp;hellip; et de dévoiler le premier rapport d&amp;rsquo;activité de l&amp;rsquo;association !&#xA;Vous pouvez consulter le rapport d&amp;rsquo;activité sur ce lien.&#xA;</description>
                 </item>
@@ -33,7 +33,7 @@
                  
                 <item>
                     <title>L&#39;association est officielle  !</title>
-                    <link>/actualites/2025-03-27-asso-creee/</link>
+                    <link>http://localhost:1313/actualites/2025-03-27-asso-creee/</link>
                     <pubDate>Thu, 27 Mar 2025 00:00:00 +0100</pubDate>
                     <description>Après l&amp;rsquo;Assemblée générale constitutive du 28 janvier 2025, l&amp;rsquo;inscription au tribunal de l&amp;rsquo;association Stras&amp;rsquo;bêrgerie est désormais faite ! Cela permet à l&amp;rsquo;association de créer un compte à la banque, de candidater à des appels à projets, etc.&#xA;</description>
                 </item>
