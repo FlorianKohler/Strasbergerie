@@ -14,7 +14,7 @@ Merci à eux pour leur aide précieuse !!
 
 {{< columns count=2 >}}
 {{< column >}}
-![Photo d'un chantier participatif](/images/Chantiers_Participatifs)
+![Photo d'un chantier participatif](/images/Chantiers_Participatifs.jpg)
 {{< /column >}}
 {{< column >}}
 
@@ -25,7 +25,7 @@ Les chantiers ont bien sûr aussi été l'occasion de passer un bon moment ensem
 
 {{< columns count=2 >}}
 {{< column >}}
-![Photo d'un déjeuner convivial pendant une journée de chantier participatif](/images/Dej_Chantiers_Participatifs)
+![Photo d'un déjeuner convivial pendant une journée de chantier participatif](/images/Dej_Chantiers_Participatifs.jpg)
 {{< /column >}}
 {{< column >}}
 
