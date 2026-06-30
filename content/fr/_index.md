@@ -13,7 +13,7 @@ Après de nombreuses réunions, de nombreux chantiers participatifs, des recherc
 {{< /column >}}
 {{< column >}}
 
-  <img style="width:50%;" src="images/Photo_Bergerie.jpg" alt="La photo du pré dans static/images">
+  <img style="width:70%;" src="images/Photo_Bergerie.jpg" alt="La photo du pré dans static/images">
 {{< /column >}}
 {{< /columns >}}
 
