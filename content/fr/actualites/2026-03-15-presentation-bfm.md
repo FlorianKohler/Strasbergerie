@@ -1,6 +1,6 @@
 ---
 title: Stras'bêrgerie sur BFM Alsace !
-date: 2026-03-15T20:00:00.000Z
+date: 2026-06-30T20:00:00.000Z
 description: Stras'bêrgerie a fait sa première apparition télé lors du "Focus Asso" sur BFM Alsace.
 type: "actualites"
 ---
@@ -21,5 +21,4 @@ L'intervention est disponible en replay : [lien vers l'émission](https://www.bf
 
 {{< /column >}}
 {{< /columns >}}
-
 

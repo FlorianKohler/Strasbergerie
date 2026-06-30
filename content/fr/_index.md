@@ -7,11 +7,13 @@ showHeader: false
 ## Stras'bêrgerie, en bref !
 
 Stras'bêrgerie, c'est une association créée en 2025 avec un projet à vocation pédagogique, écologique, sociale et agricole :<br>
-**installer et animer une bergerie urbaine à Strasbourg, au coeur du quartier Koenigshoffen** ! 
+**installer et animer une bergerie urbaine à Strasbourg, au coeur du quartier Koenigshoffen** !
+
+Après de nombreuses réunions, de nombreux chantiers participatifs, des recherches de financements, des montages de partenariat, ... **l'arrivée de 15 brebis début juillet 2026 marque une nouvelle étape pour l'association** !
 {{< /column >}}
 {{< column >}}
 
-  <img style="width:50%;" src="images/Photo_Pre.jpg" alt="La photo du pré dans static/images">
+  <img style="width:50%;" src="images/Photo_Bergerie.jpg" alt="La photo du pré dans static/images">
 {{< /column >}}
 {{< /columns >}}
 
@@ -38,10 +40,6 @@ Des rendez-vous festifs autour de la bergerie, comme par exemple une transhumanc
 Les produits issus de la bergerie (laine et crottin en particulier) seront valorisés, sous différentes formes !
 {{< /card >}}
 {{< /cards >}}
-
-### C'est pour quand ?
-
-Au fil des chantiers participatifs, la bergerie se prépare déjà à accueillir les brebis... dont l'arrivée est prévue au début de l'été 2026 !
 
 ### Pour en savoir plus
 
