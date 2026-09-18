@@ -13,33 +13,37 @@ Après de nombreuses réunions, de nombreux chantiers participatifs, des recherc
 {{< /column >}}
 {{< column >}}
 
-  <img style="width:70%;" src="images/Photo_Bergerie.jpg" alt="La photo du pré dans static/images">
+  <img style="width:70%;" src="images/Photo_Bergerie.jpg" alt="Aperçu de la bergerie de Stras'bêrgerie">
 {{< /column >}}
 {{< /columns >}}
 
-Les objectifs de cette démarche sont à la fois sociaux et environnementaux, et, en complément de la vie de la bergerie, diverses activités sont prévues pour atteindre ces objectifs !
+Les objectifs de cette démarche sont à la fois sociaux et environnementaux, et, en complément de la vie de la bergerie, diverses activités sont organisées pour atteindre ces objectifs !
 
-{{< cards >}}
-{{< card >}}
+{{< columns count=2 >}}
+{{< column class="bg-green" >}}
 ### De l'éco-pâturage
 Sur des espaces verts publics et privés, l'éco-pâturage permet de mieux préserver la biodiversité des prairies, pollue moins et est plus agréable à voir que les tondeuses !
-{{< /card >}}
-{{< card >}}
-### Des animations pédagogiques
-Autour du mouton, des activités pour tous les âges permettront de sensibiliser notamment autour des thématiques de la biodiversité, de l'agriculture ou de l'alimentation !
-{{< /card >}}
-{{< /cards >}}
+{{< /column >}}
 
-{{< cards >}}
-{{< card >}}
+{{< column class="bg-green" >}}
+### Des animations pédagogiques
+Autour du mouton, des ateliers pour tous les âges permettent ou permettront de sensibiliser notamment autour des thématiques de la biodiversité, de l'alimentation, ou encore de se familiariser avec la transformation de la laine !
+{{< /column >}}
+{{< /columns >}}
+
+{{< columns count=2 >}}
+{{< column class="bg-green" >}}
 ### Des moments festifs
-Des rendez-vous festifs autour de la bergerie, comme par exemple une transhumance urbaine, permettront de créer du lien social entre les habitant(e)s !
-{{< /card >}}
-{{< card >}}
+Des rendez-vous festifs autour de la bergerie, comme par exemple une transhumance urbaine, permettront de créer du lien social entre les habitant(e)s !
+Cela commence par une journée festive d'inauguration !
+{{< /column >}}
+
+{{< column class="bg-green" >}}
 ### La valorisation des produits
-Les produits issus de la bergerie (laine et crottin en particulier) seront valorisés, sous différentes formes !
-{{< /card >}}
-{{< /cards >}}
+Les produits issus de la bergerie, la laine en particulier, sont valorisés, sous différentes formes !
+{{< /column >}}
+{{< /columns >}}
+
 
 ### Pour en savoir plus
 

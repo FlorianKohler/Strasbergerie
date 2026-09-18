@@ -24,3 +24,15 @@
 @import "shortcodes/toc";
 @import "shortcodes/intro";
 @import "shortcodes/youtube-enhanced";
+
+.column.bg-green {
+  background: #eaf7e6;
+  padding: 1.5rem;
+  border-radius: 12px;
+}
+
+.column.bg-beige {
+  background: #f4efe7;
+  padding: 1.5rem;
+  border-radius: 12px;
+}

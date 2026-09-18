@@ -1,3 +1,4 @@
-<div class="column">
-    {{ .Inner | markdownify  }}
+{{ $class := .Get "class" | default "" }}
+<div class="column {{ $class }}">
+    {{ .Inner | markdownify }}
 </div>

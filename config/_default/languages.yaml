@@ -38,6 +38,10 @@ fr:
       name: "Actualités"
       url: "/actualites/"
       weight: 2
+    - identifier: "inauguration"
+      name: "Inauguration"
+      url: "/inauguration/"
+      weight: 3
     # - identifier: "contact"
     #   name: "Nous contacter"
     #   url: "/contact/"
