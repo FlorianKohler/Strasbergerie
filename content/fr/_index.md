@@ -35,7 +35,7 @@ Autour du mouton, des ateliers pour tous les âges permettent ou permettront de 
 {{< column class="bg-green" >}}
 ### Des moments festifs
 Des rendez-vous festifs autour de la bergerie, comme par exemple une transhumance urbaine, permettront de créer du lien social entre les habitant(e)s !
-Cela commence par une journée festive d'inauguration !
+Cela commence par une journée festive d'inauguration le 4 octobre !
 {{< /column >}}
 
 {{< column class="bg-green" >}}

@@ -7,11 +7,11 @@ Stras'bêrgerie organise une grande journée d'inauguration, festive et convivia
 Sur le terrain de la bergerie, de nombreuses animations seront proposées de 10h à 20h !
 
 <figure style="width: 600px; max-width: 100%; margin: 0 auto;">
-  <img src="/images/Affiche_inauguration.webp"
+  <img src="/images/Affiche_inauguration.png"
        alt="Inauguration de Stras'bêrgerie dimanche 4 octobre"
        style="width: 100%; display: block;">
   <figcaption style="text-align: center;">
-    Les brebis ont leur chauffeur privé pour se déplacer !
+    L'affiche de l'évémenent'
   </figcaption>
 </figure>
 
