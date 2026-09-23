@@ -4,14 +4,14 @@ description: "Retrouvez toutes les informations sur la journée d'inauguration d
 ---
 
 Stras'bêrgerie organise une grande journée d'inauguration, festive et conviviale, le dimanche 4 octobre !
-Sur le terrain de la bergerie, de nombreuses animations seront proposées de 10h à 20h !
+Sur le terrain de la bergerie, de nombreuses animations seront proposées toute la journée, à partir de 10h !
 
 <figure style="width: 600px; max-width: 100%; margin: 0 auto;">
   <img src="/images/Affiche_inauguration.png"
        alt="Inauguration de Stras'bêrgerie dimanche 4 octobre"
        style="width: 100%; display: block;">
   <figcaption style="text-align: center;">
-    L'affiche de l'évémenent'
+    L'affiche de l'évémenent
   </figcaption>
 </figure>
 
