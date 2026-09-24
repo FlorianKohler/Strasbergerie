@@ -17,7 +17,7 @@ Après de nombreuses réunions, de nombreux chantiers participatifs, des recherc
 {{< /column >}}
 {{< /columns >}}
 
-<div class="full-width" style="background:#eaf7e6; padding:0; margin:0;">
+<div class="full-width" style="background:#cceae0; padding:0; margin:0;">
   <div style="max-width: var(--content-width); margin:0 2rem; padding:0;">
    <h3>Journée d'inauguration de Stras'bêrgerie dimanche 4 octobre !</h3>
   <p>Stras'bêrgerie organise dimanche 4 octobre, à l'occasion de la journée mondiale des animaux, une grande journée d'inauguration, à la bergerie !</p>

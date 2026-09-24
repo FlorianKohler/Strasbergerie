@@ -1,6 +1,65 @@
-<rss version="2.0"><channel><title>Actualités on Stras'bêrgerie</title><link>/actualites/</link><description>Recent content in Stras'bêrgerie</description><item><title>Un premier été strasbourgeois pour 15 brebis</title><link>/actualites/2026-08-27-vie-des-brebis/</link><pubDate>Thu, 27 Aug 2026 20:00:00 +0000</pubDate><description>Arrivées début juillet en provenance de la ferme du Runtzenbach, nos 15 brebis ont découvert dans un premier temps le terrain de la bergerie&amp;hellip; et ont rencontré les bénévoles de l&amp;rsquo;association avec lesquelles elles semblent s&amp;rsquo;être très rapidement senties à l&amp;rsquo;aise !
-Les brebis ont rapidement trouvé leurs coins ombragés préférés sur le terrain de la bergerie ! Après avoir copieusement savouré l&amp;rsquo;herbe (et pas seulement) de la bergerie, les brebis ont été accompagnées pour aller voir si l&amp;rsquo;herbe était bien plus verte ailleurs : elles ont notamment sillonné les terrains de plusieurs Ehpad autour de Koenigshoffen, offrant à leurs occupant(e)s leur sympathique compagnie, mais sont aussi allées pâturer sur un terrain à Eckbolsheim ou encore sur un bout du verger des Poires Secouées à l&amp;rsquo;Elsau. La forte sécheresse qui a touché l&amp;rsquo;Alsace, comme la majeure partie de la France, cet été, a limité la quantité d&amp;rsquo;herbe disponible, et contraint à davantage de mouvements et, ponctuellement, à fournir du foin.</description></item><item><title>Stras'bêrgerie racontée par Pokaa</title><link>/actualites/2026-08-25-article-pokaa/</link><pubDate>Tue, 25 Aug 2026 20:00:00 +0000</pubDate><description>Le média en ligne strasbourgeois Pokaa est venu à la rencontre de Stras&amp;rsquo;bêrgerie, intrigué par des brebis dans la remorque d&amp;rsquo;un vélo-cargo.
-Retrouvez l&amp;rsquo;article complet de présentation du projet de l&amp;rsquo;association sur le site de Pokaa : (https://pokaa.fr/2026/08/19/elles-voyagent-en-velo-cargo-a-strasbourg-15-brebis-ont-elu-domicile-a-koenigshoffen/)[https://pokaa.fr/2026/08/19/elles-voyagent-en-velo-cargo-a-strasbourg-15-brebis-ont-elu-domicile-a-koenigshoffen/]</description></item><item><title>Stras'bêrgerie sur BFM Alsace !</title><link>/actualites/2026-03-15-presentation-bfm/</link><pubDate>Tue, 30 Jun 2026 20:00:00 +0000</pubDate><description>Mercredi 11 mars, Muriel a eu l&amp;rsquo;opportunité de présenter Stras&amp;rsquo;bêrgerie à tous les téléspectateurs de Bonsoir l&amp;rsquo;Alsace, l&amp;rsquo;émission quotidienne de BFM Alsace !
-La rubrique &amp;ldquo;Focus Asso&amp;rdquo; a permis de dévoiler les projets de Stras&amp;rsquo;bêrgerie face aux caméras !
-L&amp;rsquo;intervention est disponible en replay : lien vers l&amp;rsquo;émission (intervention de Muriel vers la 36e minute)</description></item><item><title>Après plusieurs chantiers participatifs, la bergerie est prête !</title><link>/actualites/2026-06-30-chantiers-participatifs/</link><pubDate>Sun, 15 Mar 2026 20:00:00 +0000</pubDate><description>Plantation de gazon, pose de plus de 100m de clôtures, installation d&amp;rsquo;un portail, mise en place de toilettes sèches, installation de râteliers, rangement de la bergerie, et le tout en favorisant le réemploi de matériaux&amp;hellip; présents notamment dans la bergerie : après beaucoup de travail, la bergerie se tient désormais prête à accueillir des brebis début juillet !</description></item><item><title>Stras'bêrgerie a tenu sa première AG !</title><link>/actualites/2026-01-14-ag-2025/</link><pubDate>Wed, 14 Jan 2026 20:00:00 +0000</pubDate><description>Stras&amp;rsquo;bêrgerie a tenu sa première Assemblée générale le jeudi 18 décembre 2025 ! À la Tour du Schloessel, l&amp;rsquo;Assemblée générale a permis de passer en revue l&amp;rsquo;année 2025&amp;hellip; et de dévoiler le premier rapport d&amp;rsquo;activité de l&amp;rsquo;association !
-Vous pouvez consulter le rapport d&amp;rsquo;activité sur ce lien.</description></item><item><title>L'association est officielle !</title><link>/actualites/2025-03-27-asso-creee/</link><pubDate>Thu, 27 Mar 2025 00:00:00 +0100</pubDate><description>Après l&amp;rsquo;Assemblée générale constitutive du 28 janvier 2025, l&amp;rsquo;inscription au tribunal de l&amp;rsquo;association Stras&amp;rsquo;bêrgerie est désormais faite ! Cela permet à l&amp;rsquo;association de créer un compte à la banque, de candidater à des appels à projets, etc.</description></item></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>Actualités on Stras&#39;bêrgerie</title>
+        <link>http://localhost:1313/actualites/</link>
+        <description>Recent content in Stras&#39;bêrgerie</description>
+
+         
+            
+                 
+                <item>
+                    <title>Un premier été strasbourgeois pour 15 brebis</title>
+                    <link>http://localhost:1313/actualites/2026-08-27-vie-des-brebis/</link>
+                    <pubDate>Thu, 27 Aug 2026 20:00:00 +0000</pubDate>
+                    <description>Arrivées début juillet en provenance de la ferme du Runtzenbach, nos 15 brebis ont découvert dans un premier temps le terrain de la bergerie&amp;hellip; et ont rencontré les bénévoles de l&amp;rsquo;association avec lesquelles elles semblent s&amp;rsquo;être très rapidement senties à l&amp;rsquo;aise !&#xA;Les brebis ont rapidement trouvé leurs coins ombragés préférés sur le terrain de la bergerie ! Après avoir copieusement savouré l&amp;rsquo;herbe (et pas seulement) de la bergerie, les brebis ont été accompagnées pour aller voir si l&amp;rsquo;herbe était bien plus verte ailleurs : elles ont notamment sillonné les terrains de plusieurs Ehpad autour de Koenigshoffen, offrant à leurs occupant(e)s leur sympathique compagnie, mais sont aussi allées pâturer sur un terrain à Eckbolsheim ou encore sur un bout du verger des Poires Secouées à l&amp;rsquo;Elsau. La forte sécheresse qui a touché l&amp;rsquo;Alsace, comme la majeure partie de la France, cet été, a limité la quantité d&amp;rsquo;herbe disponible, et contraint à davantage de mouvements et, ponctuellement, à fournir du foin.&#xA;</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>Stras&#39;bêrgerie racontée par Pokaa</title>
+                    <link>http://localhost:1313/actualites/2026-08-25-article-pokaa/</link>
+                    <pubDate>Tue, 25 Aug 2026 20:00:00 +0000</pubDate>
+                    <description>Le média en ligne strasbourgeois Pokaa est venu à la rencontre de Stras&amp;rsquo;bêrgerie, intrigué par des brebis dans la remorque d&amp;rsquo;un vélo-cargo.&#xA;Retrouvez l&amp;rsquo;article complet de présentation du projet de l&amp;rsquo;association sur le site de Pokaa : (https://pokaa.fr/2026/08/19/elles-voyagent-en-velo-cargo-a-strasbourg-15-brebis-ont-elu-domicile-a-koenigshoffen/)[https://pokaa.fr/2026/08/19/elles-voyagent-en-velo-cargo-a-strasbourg-15-brebis-ont-elu-domicile-a-koenigshoffen/]&#xA;</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>Stras&#39;bêrgerie sur BFM Alsace !</title>
+                    <link>http://localhost:1313/actualites/2026-03-15-presentation-bfm/</link>
+                    <pubDate>Tue, 30 Jun 2026 20:00:00 +0000</pubDate>
+                    <description>Mercredi 11 mars, Muriel a eu l&amp;rsquo;opportunité de présenter Stras&amp;rsquo;bêrgerie à tous les téléspectateurs de Bonsoir l&amp;rsquo;Alsace, l&amp;rsquo;émission quotidienne de BFM Alsace !&#xA;La rubrique &amp;ldquo;Focus Asso&amp;rdquo; a permis de dévoiler les projets de Stras&amp;rsquo;bêrgerie face aux caméras !&#xA;L&amp;rsquo;intervention est disponible en replay : lien vers l&amp;rsquo;émission (intervention de Muriel vers la 36e minute)&#xA;</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>Après plusieurs chantiers participatifs, la bergerie est prête !</title>
+                    <link>http://localhost:1313/actualites/2026-06-30-chantiers-participatifs/</link>
+                    <pubDate>Sun, 15 Mar 2026 20:00:00 +0000</pubDate>
+                    <description>Plantation de gazon, pose de plus de 100m de clôtures, installation d&amp;rsquo;un portail, mise en place de toilettes sèches, installation de râteliers, rangement de la bergerie, et le tout en favorisant le réemploi de matériaux&amp;hellip; présents notamment dans la bergerie : après beaucoup de travail, la bergerie se tient désormais prête à accueillir des brebis début juillet !&#xA;</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>Stras&#39;bêrgerie a tenu sa première AG !</title>
+                    <link>http://localhost:1313/actualites/2026-01-14-ag-2025/</link>
+                    <pubDate>Wed, 14 Jan 2026 20:00:00 +0000</pubDate>
+                    <description>Stras&amp;rsquo;bêrgerie a tenu sa première Assemblée générale le jeudi 18 décembre 2025 ! À la Tour du Schloessel, l&amp;rsquo;Assemblée générale a permis de passer en revue l&amp;rsquo;année 2025&amp;hellip; et de dévoiler le premier rapport d&amp;rsquo;activité de l&amp;rsquo;association !&#xA;Vous pouvez consulter le rapport d&amp;rsquo;activité sur ce lien.&#xA;</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>L&#39;association est officielle  !</title>
+                    <link>http://localhost:1313/actualites/2025-03-27-asso-creee/</link>
+                    <pubDate>Thu, 27 Mar 2025 00:00:00 +0100</pubDate>
+                    <description>Après l&amp;rsquo;Assemblée générale constitutive du 28 janvier 2025, l&amp;rsquo;inscription au tribunal de l&amp;rsquo;association Stras&amp;rsquo;bêrgerie est désormais faite ! Cela permet à l&amp;rsquo;association de créer un compte à la banque, de candidater à des appels à projets, etc.&#xA;</description>
+                </item>
+                
+            
+        
+    </channel>
+</rss>

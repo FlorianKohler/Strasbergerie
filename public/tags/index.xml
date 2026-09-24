@@ -1,1 +1,11 @@
-<rss version="2.0"><channel><title>Tags on Stras'bêrgerie</title><link>/tags/</link><description>Recent content in Stras'bêrgerie</description></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>Tags on Stras&#39;bêrgerie</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Recent content in Stras&#39;bêrgerie</description>
+
+         
+            
+        
+    </channel>
+</rss>
