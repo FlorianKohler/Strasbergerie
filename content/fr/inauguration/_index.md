@@ -20,7 +20,7 @@ Sur le terrain de la bergerie, de nombreuses animations seront proposées toute 
 #### Toute la journée à la bergerie
 
 Exposition sur le pastoralisme, exposition de créations en laine, coin enfants, stands de différentes associations...
-Et buvette et petite restauration (attention, **pas** de paiement par carte bancaire, prévoyyez de l'espèce !) !
+Et buvette et petite restauration (attention, **pas** de paiement par carte bancaire, prévoyyez de l'espèce) !
 
 #### De 10h à 11h 
 * **Visite commentée de la bergerie**, pour découvrir l'association, son projet, le bâtiment, ... 
@@ -46,9 +46,22 @@ Et buvette et petite restauration (attention, **pas** de paiement par carte banc
 * **Café-tricot** : pour avancer sur vos encours tricot ou crochet tout en partageant un moment convivial dans le beau cadre de la bergerie !
 * **Ateliers biodiversité et pastoralisme** : trois sessions de 30 minutes qui débutent à 15h30, 16h et 16h30
 
+#### À partir de 18h (selon luminosité)
+**Ciné-débat autour du film [Transmettre](https://www.oragefilms.fr/pages/documentaires/transmettre.html)** (production Orage Films, Coproduction Wide Productions, réalisé par Jérôme Zindy).
+
+Après la diffusion (52'), la discussion animée par Fanny de Stras'bêrgerie se fera  présence de :
+* **Francis Schirck**, fondateur avec sa compagne Monique Schirk de la Ferme du Runtzenbach, dont le film évoque les enjeux de transmission (et dans laquelle sont nées les brebis de Stras'bêrgerie !).
+* **Maxime Rosenblatt** qui, avec sa compagne Emeline Rauch, a repris la ferme depuis janvier !
+* **Jean-Marc Riebel**, co-président de [Terres de Liens Alsace](https://terredeliens.org/alsace/), association qui accompagne et soutient la transition de la ferme !
+
+La diffusion se fera en plein air à la bergerie : pensez à apporter un plaid pour la séance !
 
 ## Comment nous trouver
 **La bergerie se situe Rue Monseigneur Hoch, quartier Koenigshoffen**, à l'arrière du Couvent des Capucins. Elle est accessible à pied, à vélo (via Koenigshoffen ou via le Canal de la Bruche, un espace sera prévu pour stationner les vélos), en voiture (places de parking dans la rue des Capucins) ou en transports en commun :
 
  * À 10 min de marche de l'arrêt Octroi (tram F, bus 45 & 70)
  * À 10 min de marche de l'arrêt de bus César Julien (ligne C5)
+
+## Informations complémentaires
+
+Afin de garantir le bien-être des brebis, les animaux domestiques ne sont pas les bienvenus à la bergerie lors de l'inauguration.
