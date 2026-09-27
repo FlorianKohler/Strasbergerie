@@ -50,7 +50,7 @@ Et buvette et petite restauration (attention, **pas** de paiement par carte banc
 **Ciné-débat autour du film [Transmettre](https://www.oragefilms.fr/pages/documentaires/transmettre.html)** (production Orage Films, Coproduction Wide Productions, réalisé par Jérôme Zindy).
 
 Après la diffusion (52'), la discussion animée par Fanny de Stras'bêrgerie se fera  présence de :
-* **Francis Schirck**, fondateur avec sa compagne Monique Schirk de la Ferme du Runtzenbach, dont le film évoque les enjeux de transmission (et dans laquelle sont nées les brebis de Stras'bêrgerie !).
+* **Francis Schirck**, fondateur avec sa compagne Monique Schirck de la Ferme du Runtzenbach, dont le film évoque les enjeux de transmission (et dans laquelle sont nées les brebis de Stras'bêrgerie !).
 * **Maxime Rosenblatt** qui, avec sa compagne Emeline Rauch, a repris la ferme depuis janvier !
 * **Jean-Marc Riebel**, co-président de [Terres de Liens Alsace](https://terredeliens.org/alsace/), association qui accompagne et soutient la transition de la ferme !
 
