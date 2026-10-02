@@ -23,7 +23,7 @@ Exposition sur le pastoralisme, exposition de créations en laine, coin enfants,
 Et buvette et petite restauration (attention, **pas** de paiement par carte bancaire, prévoyyez de l'espèce) !
 
 #### De 10h à 11h 
-* **Visite commentée de la bergerie**, pour découvrir l'association, son projet, le bâtiment, ... 
+* **Visites commentées de la bergerie**, pour découvrir l'association, son projet, le bâtiment, ... (départs vers 10h15 et 10h40) 
 
 #### De 11h à 12h
 * **Ateliers autour de la laine** : initiation au cardage, initiation au filage de fuseau et démonstration de filage au rouet
@@ -36,10 +36,10 @@ Et buvette et petite restauration (attention, **pas** de paiement par carte banc
 * **Concours de bêlement** : qu'importe votre âge, votre talent ou votre entraînement, venez faire vibrer vos cordes vocales en tentant d'imiter aussi bien que possible nos brebis !
 
 #### De 14h à 15h
-* **Visite commentée de la bergerie** (2e édition), toujours pour découvrir l'association, son projet, le bâtiment, ... 
+* **Visites commentées de la bergerie**, toujours pour découvrir l'association, son projet, le bâtiment, ...
 
 #### De 15h à 16h30
-* **Tonte des brebis** !
+* **Tonte des brebis par John** !
 
 #### De 15h30 à 17h
 * **Ateliers autour de la laine** : initiation au cardage, initiation au feutrage à l'aiguille
