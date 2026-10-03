@@ -42,6 +42,14 @@ fr:
       name: "Inauguration"
       url: "/inauguration/"
       weight: 3
+    - identifier: "campagne-okote"
+      name: "Campagne OKOTÉ"
+      url: "/campagne-okote/"
+      weight: 4
+        # - identifier: "contact"
+    #   name: "Nous contacter"
+    #   url: "/contact/"
+    #   weight: 3
     # - identifier: "contact"
     #   name: "Nous contacter"
     #   url: "/contact/"

@@ -20,7 +20,7 @@ Sur le terrain de la bergerie, de nombreuses animations seront proposées toute 
 #### Toute la journée à la bergerie
 
 Exposition sur le pastoralisme, exposition de créations en laine, coin enfants, stands de différentes associations...
-Et buvette et petite restauration (attention, **pas** de paiement par carte bancaire, prévoyyez de l'espèce) !
+Et buvette et petite restauration (attention, **pas** de paiement par carte bancaire, prévoyez de l'espèce) !
 
 #### De 10h à 11h 
 * **Visites commentées de la bergerie**, pour découvrir l'association, son projet, le bâtiment, ... (départs vers 10h15 et 10h40) 

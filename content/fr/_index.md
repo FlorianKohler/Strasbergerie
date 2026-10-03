@@ -13,18 +13,30 @@ Après de nombreuses réunions, de nombreux chantiers participatifs, des recherc
 {{< /column >}}
 {{< column >}}
 
-  <img style="width:70%;" src="images/Photo_Bergerie.jpg" alt="Aperçu de la bergerie de Stras'bêrgerie">
+  <img style="width:85%;" src="images/Photo_Bergerie.jpg" alt="Aperçu de la bergerie de Stras'bêrgerie">
 {{< /column >}}
 {{< /columns >}}
 
+<div class="full-width" style="background:#e7d7d4; padding:0; margin:0;">
+  <div style="margin:0 2rem; padding:0;">
+   <h3>Notre campagne de financement participatif Okoté est lancée !</h3>
+  <p>Afin de <b>financer une yourte à la bergerie pour accueillir des groupes pour nos ateliers</b> (autour de la laine, de la biodiversité, du bien-être animal, etc.), nous lançons une campagne Okoté !</p>
+<p>Avec Okoté, grâce aux <a href="/campagne-okote/#soutiens">partenaires (collectivités et entreprises) qui soutiennent la campagne</a>, <b>vos dons sont triplés</b> :<br> c'est le moment de faire un don !</p>
+<div style="text-align: center;">{{< button link="https://www.alsace.okote.fr/decouvrez-les-projets/detail/strasbergerie" text="Voir la campagne et faire un don" icon="external" >}}</div>
+  </div>
+</div>
+
+<br>
+
 <div class="full-width" style="background:#cceae0; padding:0; margin:0;">
-  <div style="max-width: var(--content-width); margin:0 2rem; padding:0;">
+  <div style="margin:0 2rem; padding:0;">
    <h3>Journée d'inauguration de Stras'bêrgerie dimanche 4 octobre !</h3>
   <p>Stras'bêrgerie organise dimanche 4 octobre, à l'occasion de la journée mondiale des animaux, une grande journée d'inauguration, à la bergerie !</p>
 <p>Au programme de cette journée du dimanche 4 octobre : visites commentées de la bergerie, exposition, tonte des moutons, ateliers manuels autour de la transformation de la laine, café-tricot, ateliers autour de la biodiversité ... mais aussi concert et concours de bêlement ! 🐑
 <div style="text-align: center;">{{< button link="/inauguration" text="Voir tous les détails de l'inauguration" >}}</div>
   </div>
 </div>
+<br>
 
 ### Les objectifs et activités
 
