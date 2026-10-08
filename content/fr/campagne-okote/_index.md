@@ -24,7 +24,7 @@ _*Don déductible d'impôt_
 Les précieux soutiens qui triplent les dons : 
 
 * Côté collectivités :  la Collectivité Européenne d'Alsace et l'Eurométropole de Strasbourg !
-* Côté partenaires privés : la SERS, Eiffage, Solares Bauen, la MAIF et Aural !
+* Côté partenaires privés : la SERS, Eiffage Construction, Solares Bauen, la MAIF et Aural !
 
 
 <img style="width:70%;" src="/images/Soutiens_Okote.png" alt="CEA, Strasbourg, SERS, Eiffage, Solares Bauen, AURAL, MAIF">

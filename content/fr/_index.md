@@ -21,7 +21,7 @@ Après de nombreuses réunions, de nombreux chantiers participatifs, des recherc
   <div style="margin:0 2rem; padding:0;">
    <h3>Notre campagne de financement participatif Okoté est lancée !</h3>
   <p>Afin de <b>financer une yourte à la bergerie pour accueillir des groupes pour nos ateliers</b> (autour de la laine, de la biodiversité, du bien-être animal, etc.), nous lançons une campagne Okoté !</p>
-<p>Avec Okoté, grâce aux <a href="/campagne-okote/#soutiens">partenaires (collectivités et entreprises) qui soutiennent la campagne</a>, <b>vos dons sont triplés</b> :<br> c'est le moment de faire un don !</p>
+<p>Avec Okoté, grâce aux <a href="/campagne-okote/#soutiens">partenaires (collectivités et entreprises)</a> qui soutiennent la campagne, <b>vos dons sont triplés</b> :<br> c'est le moment de faire un don !</p>
 <div style="text-align: center;">{{< button link="https://www.alsace.okote.fr/decouvrez-les-projets/detail/strasbergerie" text="Voir la campagne et faire un don" icon="external" >}}</div>
   </div>
 </div>
