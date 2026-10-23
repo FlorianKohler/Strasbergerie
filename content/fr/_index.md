@@ -28,16 +28,6 @@ Après de nombreuses réunions, de nombreux chantiers participatifs, des recherc
 
 <br>
 
-<div class="full-width" style="background:#cceae0; padding:0; margin:0;">
-  <div style="margin:0 2rem; padding:0;">
-   <h3>Journée d'inauguration de Stras'bêrgerie dimanche 4 octobre !</h3>
-  <p>Stras'bêrgerie organise dimanche 4 octobre, à l'occasion de la journée mondiale des animaux, une grande journée d'inauguration, à la bergerie !</p>
-<p>Au programme de cette journée du dimanche 4 octobre : visites commentées de la bergerie, exposition, tonte des moutons, ateliers manuels autour de la transformation de la laine, café-tricot, ateliers autour de la biodiversité ... mais aussi concert et concours de bêlement ! 🐑
-<div style="text-align: center;">{{< button link="/inauguration" text="Voir tous les détails de l'inauguration" >}}</div>
-  </div>
-</div>
-<br>
-
 ### Les objectifs et activités
 
 Les objectifs de cette démarche sont à la fois sociaux et environnementaux, et, en complément de la vie de la bergerie, diverses activités sont organisées pour atteindre ces objectifs !
