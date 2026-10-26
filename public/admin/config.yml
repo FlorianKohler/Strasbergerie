@@ -15,4 +15,12 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
+      - label: 'Image de vignette (page d''accueil et liste des actualités)'
+        name: 'image'
+        widget: 'image'
+        required: false
+        media_folder: '/assets/vignettes'
+        public_folder: 'vignettes'
+        hint: 'Image en paysage, idéalement moins de 500 Ko. Elle est recadrée automatiquement en 8:5.'
+      - { label: 'Texte alternatif de la vignette (laisser vide si elle est purement décorative)', name: 'image_alt', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }

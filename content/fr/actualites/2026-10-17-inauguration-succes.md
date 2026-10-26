@@ -1,8 +1,8 @@
-
 ---
 title: 1500 personnes présentes à l'inauguration de Stras'bêrgerie !
 date: 2026-10-10T20:00:00.000Z
 description: Lors de la journée d'inauguration de Stras'bêrgerie, dimanche 4 octobre, environ 1500 personnes ont fait le déplacement pour découvrir la bergerie et les activités proposées !
+image: vignettes/inauguration.jpg
 type: "actualites"
 ---
 

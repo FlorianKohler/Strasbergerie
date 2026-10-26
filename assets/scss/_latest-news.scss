@@ -1,0 +1,80 @@
+// Vignettes des derniers articles (shortcode dernieres-actus)
+// Le thème limite les enfants directs de .content à --content-width (895 px) :
+// on lève cette limite pour que les cartes occupent toute la largeur du conteneur.
+.content .latest-news {
+    max-width: 100%;
+}
+
+.latest-news {
+    margin: 2rem 0;
+
+    &__list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: grid;
+        // Petit écran : autant de colonnes que possible (240 px minimum chacune).
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 1.5rem;
+
+        // À partir de 800 px : toujours 3 colonnes sur une seule ligne.
+        // minmax(0, 1fr) empêche une carte de déborder (mot long, image large).
+        @media (min-width: 800px) {
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+        }
+    }
+
+    &__item {
+        position: relative; // la zone cliquable couvre toute la carte
+        display: flex;
+        flex-direction: column;
+        background: var(--white);
+        border-radius: 10px;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+        overflow: hidden;
+
+        &:focus-within {
+            outline: 3px solid var(--primary-800);
+            outline-offset: 2px;
+        }
+        &:hover .latest-news__title a {
+            text-decoration: underline;
+        }
+    }
+
+    &__img {
+        display: block;
+        width: 100%;
+        height: auto;
+        aspect-ratio: 8 / 5;
+        object-fit: cover;
+    }
+
+    &__body {
+        padding: 1rem 1.25rem 1.25rem;
+    }
+
+    &__title {
+        margin: 0 0 0.25rem;
+        font-size: 1.15rem;
+
+        a {
+            text-decoration: none;
+            &::after {
+                content: "";
+                position: absolute;
+                inset: 0;
+            }
+        }
+    }
+
+    &__date {
+        margin: 0 0 0.5rem;
+        font-size: 0.85rem;
+        color: var(--gray-700);
+    }
+
+    &__all {
+        margin-top: 1.25rem;
+    }
+}

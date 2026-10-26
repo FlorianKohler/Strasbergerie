@@ -1,8 +1,8 @@
-
 ---
 title: Un premier été strasbourgeois pour 15 brebis
 date: 2026-08-27T20:00:00.000Z
 description: Arrivées début juillet, 15 brebis pâturent sur différents terrains autour de la bergerie de Stras'bêrgerie.
+image: vignettes/brebis.jpg
 type: "actualites"
 ---
 

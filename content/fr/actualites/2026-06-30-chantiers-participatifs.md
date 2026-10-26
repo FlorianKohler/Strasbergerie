@@ -1,7 +1,6 @@
-
 ---
 title: Après plusieurs chantiers participatifs, la bergerie est prête !
-date: 2026-03-15T20:00:00.000Z
+date: 2026-03-30T20:00:00.000Z
 description: Les bénévoles ont contribué au printemps aux chantiers participatifs pour préparer la bergerie à l'arrivée des brebis.
 type: "actualites"
 ---

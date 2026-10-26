@@ -1,0 +1,35 @@
+{{- /* Vignettes des derniers articles de la section "actualites".
+       Usage : shortcode dernieres-actus, parametre nb (3 par defaut)
+       Front matter de l'article : image: vignettes/mon-image.jpg (dans assets/), image_alt: "..." (facultatif) */ -}}
+{{- $nb := int (default 3 (.Get "nb")) -}}
+{{- $all := where site.RegularPages "Section" "actualites" -}}
+{{- $pages := first $nb $all.ByDate.Reverse -}}
+{{- if $pages }}
+<section class="latest-news" aria-labelledby="latest-news-title">
+  <h2 id="latest-news-title">Dernières actualités</h2>
+  <ul class="latest-news__list">
+    {{- range $pages }}
+    {{- $page := . }}
+    {{- $alt := .Params.image_alt | default "" }}
+    <li class="latest-news__item">
+      {{- with .Params.image }}
+        {{- $path := . }}
+        {{- with resources.Get $path }}
+          {{- $thumb := .Fill "640x400 q75" }}
+      <img class="latest-news__img" src="{{ $thumb.RelPermalink }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+        {{- else }}
+          {{- warnf "dernieres-actus : image %q introuvable dans assets/ (article : %s)" $path $page.Title }}
+        {{- end }}
+      {{- end }}
+      <div class="latest-news__body">
+        <h3 class="latest-news__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p class="latest-news__date"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02/01/2006" }}</time></p>
+      </div>
+    </li>
+    {{- end }}
+  </ul>
+  {{- with site.GetPage "/actualites" }}
+  <p class="latest-news__all"><a href="{{ .RelPermalink }}">Voir toutes les actualités</a></p>
+  {{- end }}
+</section>
+{{- end }}

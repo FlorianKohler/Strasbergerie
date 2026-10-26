@@ -26,9 +26,7 @@ Après de nombreuses réunions, de nombreux chantiers participatifs, des recherc
   </div>
 </div>
 
-<br>
-
-### Les objectifs et activités
+## Les objectifs et activités
 
 Les objectifs de cette démarche sont à la fois sociaux et environnementaux, et, en complément de la vie de la bergerie, diverses activités sont organisées pour atteindre ces objectifs !
 
@@ -57,10 +55,10 @@ Les produits issus de la bergerie, la laine en particulier, sont valorisés, sou
 {{< /column >}}
 {{< /columns >}}
 
+{{< dernieres-actus nb=3 >}}
 
 ### Pour en savoir plus
 
 <!-- {{< button link="/path/to/page" text="Consultez les détails du projet" >}} -->
-{{< button link="/actualites" text="Consultez les dernières actualités de Stras'bêrgerie" >}}
 {{< button link="/ressources" text="Consultez nos ressources préférées" >}}
 
