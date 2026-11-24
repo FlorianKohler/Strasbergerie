@@ -1,9 +1,8 @@
 ---
-title: Confirmation d'inscription à notre newsletter
+title: Merci pour votre inscription à notre newsletter !
 description: Inscription à notre newsletter confirmée
 ---
 
-##### Merci pour votre inscription à notre newsletter !
 
 Nos brebis vous enverront bientôt de leurs nouvelles ! 
 
