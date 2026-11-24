@@ -19,8 +19,8 @@ Après de nombreuses réunions, de nombreux chantiers participatifs, des recherc
 
 <div class="full-width" style="background:#e7d7d4; padding:0; margin:0;">
   <div style="margin:0 2rem; padding:0;">
-   <h3>Notre campagne de financement participatif Okoté est lancée !</h3>
-  <p>Afin de <b>financer une yourte à la bergerie pour accueillir des groupes pour nos ateliers</b> (autour de la laine, de la biodiversité, du bien-être animal, etc.), nous lançons une campagne Okoté !</p>
+   <h3>Derniers jours pour notre campagne de financement participatif !</h3>
+  <p>Grâce à vos dons, trois des quatre paliers de notre campagne Okoté ont été financés ! Il reste quelques jours (jusqu'au 31 novembre) pour atteindre le dernier objectif !</p>
 <p>Avec Okoté, grâce aux <a href="/campagne-okote/#soutiens">partenaires (collectivités et entreprises)</a> qui soutiennent la campagne, <b>vos dons sont triplés</b> :<br> c'est le moment de faire un don !</p>
 <div style="text-align: center;">{{< button link="https://www.alsace.okote.fr/decouvrez-les-projets/detail/strasbergerie" text="Voir la campagne et faire un don" icon="external" >}}</div>
   </div>
@@ -57,8 +57,14 @@ Les produits issus de la bergerie, la laine en particulier, sont valorisés, sou
 
 {{< dernieres-actus nb=3 >}}
 
+
+### Newsletter
+
+<iframe width="800" height="350" src="https://817f85f1.sibforms.com/v2/serve/MUIFADOzzJL47r7WwifUEyunMe9YT5LwGZdQVPZPhZl_2xTUp-E64CjGWN1dVOwemdn7f0LEACqFHlMgYFfZkQlxH6JwsGbJfyO_XmBf9kWWs_xiHf7kp3i3p-Ho9asrVwvkoD-wjaYxCzAg-5iAwzXEGpasTIfK8oYGUStsSlWVn-vgBOwJVFdi9uirAkRk1CkGrkCr6H3QPmTNMw==" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+
 ### Pour en savoir plus
 
 <!-- {{< button link="/path/to/page" text="Consultez les détails du projet" >}} -->
 {{< button link="/ressources" text="Consultez nos ressources préférées" >}}
+
 
